@@ -2,7 +2,7 @@
 
 # Nikita Marshchonok
 
-**Data Scientist · ML Engineer · AI / Agentic Apps** · Netanya, Israel
+**Data Scientist · ML Engineer · AI / Agentic Apps** · Israel
 
 I build AI/data products: dashboards, ML models, RAG/LLM features and practical web services. MSc in Software Engineering (SCE).
 
