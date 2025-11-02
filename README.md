@@ -1,10 +1,15 @@
 # Nikita Marshchonok
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/nikita-marshchonok)
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NikitaMarshchonok)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.marshchonok@gmail.com)
+
+
 **Data Scientist · ML Engineer · AI / Agentic Apps** · Israel
 
 I build AI/data products: dashboards, ML models, RAG/LLM features and practical web services. MSc in Software Engineering (SCE).
 
-[LinkedIn](http://www.linkedin.com/in/nikita-marshchonok) • [GitHub](https://github.com/NikitaMarshchonok) • [Email](mailto:n.marshchonok@gmail.com)
+
 
 ---
 
