@@ -1,5 +1,3 @@
-# NikitaMarshchonok
-
 # Nikita Marshchonok
 
 **Data Scientist · ML Engineer · AI / Agentic Apps** · Israel
