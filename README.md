@@ -5,7 +5,9 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.marshchonok@gmail.com)
 
 
-**Data Scientist · ML Engineer · AI** · Israel
+**Data Scientist · ML Engineer · AI** 
+
+Israel
 
 I build AI/data products: dashboards, ML models, RAG/LLM features and practical web services. MSc in Software Engineering (SCE).
 
