@@ -23,7 +23,7 @@ I build AI/data products: dashboards, ML models, RAG/LLM features and practical 
 ---
 
 ###  Tech Stack
-**Python, SQL, Pandas, scikit-learn, PyTorch, Hugging Face, LangChain, Flask, FastAPI, Docker, Git**
+****
 
 ---
 
