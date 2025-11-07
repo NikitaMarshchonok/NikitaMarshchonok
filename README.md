@@ -23,6 +23,7 @@ I build AI/data products: dashboards, ML models, RAG/LLM features and practical 
 ---
 
 ###  Tech Stack
+
 **Python · SQL (PostgreSQL, SQLite) · Pandas · scikit-learn · PyTorch · Hugging Face · LangChain (RAG, agents) · Flask · FastAPI · Airflow · Docker · Git · Plotly/Streamlit · MLflow · GitHub Actions · AWS (basic)**
 
 ---
