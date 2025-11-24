@@ -40,6 +40,7 @@ I build AI/data products: dashboards, ML models, RAG/LLM features and practical 
 ![Nikita's GitHub stats](https://github-readme-stats.vercel.app/api?username=NikitaMarshchonok&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaMarshchonok&layout=compact&theme=tokyonight)
 
+
 ---
 
 🟢 *Open to DS/ML roles (Israel/remote).*
