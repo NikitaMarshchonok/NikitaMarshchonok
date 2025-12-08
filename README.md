@@ -5,7 +5,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:n.marshchonok@gmail.com)
 
 
-**Data Scientist · ML Engineer · AI** 
+**Back End Engineer · Data Scientist · ML Engineer · AI** 
 
 Israel
 
